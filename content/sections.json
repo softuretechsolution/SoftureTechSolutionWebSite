@@ -1,0 +1,81 @@
+{
+    "sectors": {
+        "title": "Industries We Serve",
+        "intro": "Driving innovation across diverse sectors with tailored technology solutions.",
+        "items": [
+            {
+                "name": "Finance",
+                "description": "Secure, scalable platforms for banking, fintech, and investment firms. Advanced analytics and compliance-ready solutions to build trust and efficiency."
+            },
+            {
+                "name": "Healthcare",
+                "description": "AI-driven diagnostics, interoperability, and electronic health records to enhance patient care and ensure regulatory compliance."
+            },
+            {
+                "name": "Retail & E-Commerce",
+                "description": "Personalized shopping experiences, inventory optimization, and omnichannel engagement powered by AI and data insights."
+            },
+            {
+                "name": "Manufacturing",
+                "description": "Industry 4.0 solutions with IoT, automation, and predictive analytics to improve productivity and sustainability."
+            },
+            {
+                "name": "Public Sector & SOEs",
+                "description": "Citizen-centric digital platforms, secure cloud infrastructure, and data-driven governance for transparency and efficiency."
+            },
+            {
+                "name": "Education & Non-Profit",
+                "description": "Scalable, cost-effective solutions to enable learning, outreach, and social impact."
+            }
+        ]
+    },
+
+    "services": {
+        "title": "Services",
+        "items": [
+            {
+                "name": "Technology & Development Services",
+                "icon": "fa-solid fa-laptop-code",
+                "subItems": [
+                    {
+                        "name": "Software Development",
+                        "icon": "fa-solid fa-code",
+                        "description": "Custom applications tailored to your business needs."
+                    },
+                    {
+                        "name": "Software Testing",
+                        "icon": "fa-solid fa-vial",
+                        "description": "Quality assurance and performance testing for reliable solutions."
+                    },
+                    {
+                        "name": "Web Development",
+                        "icon": "fa-solid fa-globe",
+                        "description": "Responsive and modern websites for businesses."
+                    },
+                    {
+                        "name": "Mobile Applications",
+                        "icon": "fa-solid fa-mobile-screen",
+                        "description": "iOS and Android apps for seamless user experiences."
+                    }
+                ]
+            }
+       ]
+    },
+
+  "products": {
+    "title": "Products",
+    "text": "We’re currently developing solutions to address key real-world challenges."
+  },
+  "careers": {
+    "title": "Careers",
+    "text": "We’re not currently hiring, but we’d love to hear from you. Reach out to stay connected and learn about future opportunities."
+  },
+  "about": {
+    "title": "About",
+    "text": "We are a group of talented engineers focused on helping small-scale businesses reach more customers and grow sustainably. By combining technology, practical insights, and strong engineering principles, we aim to build solutions that improve visibility, engagement, and long-term business growth."
+  },
+    "contact": {
+        "title": "Contact",
+        "text": "Share your details and we will reach out shortly."
+    }
+}
